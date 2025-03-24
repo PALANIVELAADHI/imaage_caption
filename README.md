@@ -1,10 +1,11 @@
-Below is a sample GitHub `README.md` file content tailored for the deep learning image captioning project you’ve developed. It includes an overview, setup instructions, usage details, and additional sections to make it informative and user-friendly. You can adjust it based on your project specifics (e.g., repository name, additional features).
 
----
+
 
 # Image Captioning with Deep Learning
 
 This project uses a deep learning model to automatically generate captions for images. Built for Jupyter Notebook, it leverages the `nlpconnect/vit-gpt2-image-captioning` model from Hugging Face, combining Vision Transformer (ViT) for image feature extraction and GPT-2 for text generation. The program displays images with their generated captions inline, making it ideal for interactive exploration of image datasets.
+
+# mail: jta.palanivel@gmail.com
 
 ## Features
 - Generates captions for images using a pre-trained VisionEncoderDecoderModel.
@@ -138,5 +139,3 @@ Feel free to fork this repository, submit issues, or send pull requests with imp
 - **Repository Name**: Replace `yourusername/image-captioning` with your actual GitHub repository URL.
 - **Images Folder**: Assumes you’ll include an `Images` folder in the repo or document where users should place their images.
 - **License**: I’ve suggested MIT, but update it to your preferred license.
-
-Copy this into a `README.md` file in your GitHub repository. Let me know if you’d like to add more sections (e.g., screenshots, dataset info) or tweak anything!
